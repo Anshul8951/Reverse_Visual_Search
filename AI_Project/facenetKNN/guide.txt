@@ -1,0 +1,6 @@
+This folder link contains all pickle and h5 files that can be used to run the baseline.
+[Link to Google]https://drive.google.com/drive/folders/1zIfIX7hiV2TgNqCz9D-42Su9r2PmBNwP?usp=sharing
+
+The improvement code takes care of placing downloading the h5 file and any additional file in the code if required too. 
+However, if you wish to run the inference task only you upload the required files from either the current GitHub folder or the above Google drive link.
+
